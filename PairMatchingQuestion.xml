@@ -2,6 +2,7 @@
 <question type="matching">
 	<name>
 		<text>Demo question d'appariement</text>
+		<text>TEST GIT TP</text>
 	</name>
 	<questiontext format="html">
 		<text>Quel est la bonne réponse ?</text>

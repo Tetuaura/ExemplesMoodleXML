@@ -28,4 +28,5 @@
 	</answer>
 	<shuffleanswers>1</shuffleanswers>
 	<single>true</single>
+	<single>trueTest</single>
 </question>
